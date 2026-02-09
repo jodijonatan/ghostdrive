@@ -1,4 +1,4 @@
-module drive-mini
+module github.com/jodijonatan/ghostdrive
 
 go 1.24.4
 
